@@ -1,0 +1,30 @@
+*{
+
+}
+/* Navigation */
+
+.nav-link{
+    font-weight: bold;
+}
+
+/* banner */
+
+.carousel-indicators li{
+    padding: 2px;
+    border-radius: 15px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.buy-now-button:hover{
+    background-color: orange;
+    transition: 0.5s;
+    counter-reset: red;
+}
+.card{
+    border: none;
+    box-shadow: 0px 0px 10px 5px rgb(243, 243, 243);
+}
