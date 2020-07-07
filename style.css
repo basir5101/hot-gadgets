@@ -16,6 +16,10 @@ h1{
 .carousel-indicators li{
     padding: 2px;
     border-radius: 15px;
+    background-color: gray;
+}
+.carousel-indicators .active{
+    background-color: orange;
 }
 .buy-now-button{
     background-color: black;
